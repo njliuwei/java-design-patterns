@@ -23,7 +23,7 @@ package com.iluwatar.adapter;
  * use the Adapter pattern to reuse {@link FishingBoat}.
  *
  */
-public class App {
+public class App {   
 
   /**
    * Program entry point.
